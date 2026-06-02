@@ -6,7 +6,7 @@ public class Datatypes {
         double suii=6.999999999;
         long mine=6999999999999l;
         //string is not primitive
-        String abc ="Kirmada";
+        String abc ="Ridhim";
         System.out.println(rollno +c +  marks + suii +mine+abc);
     }
 }
